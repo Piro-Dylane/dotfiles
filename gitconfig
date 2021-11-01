@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = piro.dylan@outlook.fr
+	name = Dylane Piro
